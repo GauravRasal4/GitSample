@@ -14,6 +14,8 @@ public class Day1 {
 	public void planning()
 	{
 		System.out.println("Day-1 Hello Gaurav");
+		System.out.println("Day-1 qwerty");
+		System.out.println("Day-1 XYZ");
 		
 	}
 	

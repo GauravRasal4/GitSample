@@ -12,6 +12,7 @@ public class Day2 {
 	public void meeting()
 	{
 		System.out.println("Day-2 what are doing?");
+		System.out.println("Day-1 XYZ");
 		
 	}
 	@Test
