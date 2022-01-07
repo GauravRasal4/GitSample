@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="246" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+    <groups>
+      <group name="Smoke">
+        <method signature="Day3.chating1()[pri:0, instance:test.Day3@17d677df]" name="chating1" class="test.Day3"/>
+        <method signature="Day3.chating2()[pri:0, instance:test.Day3@17d677df]" name="chating2" class="test.Day3"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Test" duration-ms="246" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+      <class name="test.Day1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTesting()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeTesting" is-config="true" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTesting -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeMethods" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="planning()[pri:0, instance:test.Day1@ea1a8d5]" name="planning" duration-ms="9" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planning -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="afterMethods" is-config="true" duration-ms="0" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="planning1()[pri:0, instance:test.Day1@ea1a8d5]" name="planning1" duration-ms="7" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planning1 -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="afterMethods" is-config="true" duration-ms="0" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeMethods" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="planning2()[pri:0, instance:test.Day1@ea1a8d5]" name="planning2" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planning2 -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="afterMethods" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="planning3()[pri:0, instance:test.Day1@ea1a8d5]" name="planning3" duration-ms="11" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planning3 -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:test.Day1@ea1a8d5]" name="afterMethods" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="afterTesting()[pri:0, instance:test.Day1@ea1a8d5]" name="afterTesting" is-config="true" duration-ms="3" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTesting -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.Day1@ea1a8d5]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.Day1 -->
+      <class name="test.Day2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.Day2@76b0bfab]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.Day2@76b0bfab]" name="beforeClass" is-config="true" duration-ms="4" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="meeting()[pri:0, instance:test.Day2@76b0bfab]" name="meeting" duration-ms="3" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meeting -->
+        <test-method status="PASS" signature="meeting1()[pri:0, instance:test.Day2@76b0bfab]" name="meeting1" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meeting1 -->
+        <test-method status="PASS" signature="meeting2()[pri:0, instance:test.Day2@76b0bfab]" name="meeting2" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meeting2 -->
+        <test-method status="PASS" signature="meeting3()[pri:0, instance:test.Day2@76b0bfab]" name="meeting3" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meeting3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.Day2@76b0bfab]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Day2@76b0bfab]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Day2 -->
+      <class name="test.Day3">
+        <test-method status="PASS" signature="chating()[pri:0, instance:test.Day3@17d677df]" name="chating" duration-ms="8" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chating -->
+        <test-method status="PASS" signature="chating1()[pri:0, instance:test.Day3@17d677df]" name="chating1" duration-ms="3" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chating1 -->
+        <test-method status="PASS" signature="chating2()[pri:0, instance:test.Day3@17d677df]" name="chating2" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chating2 -->
+      </class> <!-- test.Day3 -->
+      <class name="test.Day4">
+        <test-method status="PASS" signature="Dating()[pri:0, instance:test.Day4@3043fe0e]" name="Dating" duration-ms="3" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dating -->
+        <test-method status="PASS" signature="Dating1()[pri:0, instance:test.Day4@3043fe0e]" name="Dating1" duration-ms="1" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dating1 -->
+        <test-method status="PASS" signature="Dating2()[pri:0, instance:test.Day4@3043fe0e]" name="Dating2" duration-ms="6" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dating2 -->
+        <test-method status="PASS" signature="Dating3()[pri:0, instance:test.Day4@3043fe0e]" name="Dating3" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dating3 -->
+        <test-method status="PASS" signature="Dating4()[pri:0, instance:test.Day4@3043fe0e]" name="Dating4" duration-ms="2" started-at="2021-10-28T13:58:36 IST" finished-at="2021-10-28T13:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dating4 -->
+      </class> <!-- test.Day4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
